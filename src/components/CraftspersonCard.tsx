@@ -7,19 +7,13 @@ import Col from "react-bootstrap/Col";
 import Skills from "./Skills";
 import Card, {CardBody, CardText, CardTitle} from "react-bootstrap/Card";
 import CardImg from "react-bootstrap/CardImg";
+import {SkillLevel} from "./Badge";
+import faker from "faker";
 
 export default function CraftspersonCard(props: { craftsperson: Craftsperson }) {
-    function skill(name: string, level: string) {
-        return {name: name, level: level};
-    }
 
-    const skills = [
-      skill("java", "4"),
-      skill("UI design", "-1"),
-      skill("python", "1"),
-      skill("typescript", "2"),
-      skill("React", "2"),
-    ];
+    const skills = new Array(faker.random.number(10)).fill(1).map(_ =>
+        faker.commerce.product());
 
     return (
         <Card style={{

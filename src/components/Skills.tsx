@@ -2,31 +2,15 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import React from "react";
 import Col from "react-bootstrap/Col";
+import Badge, {SkillLevel} from "./Badge";
 
-export default function Skills(props: { skills: { level: string; name: string }[] }) {
-
-    function getColorByLevel(skill: {level: string}) {
-        switch(skill.level) {
-            case "-1": return "red";
-            case "4": return "green";
-            case "2": return "yellow";
-            default: return "grey";
-        }
-    }
+export default function Skills(props: { skills: string[] }) {
 
     return (
-    <Container>
+    <Container className={"fluid"}>
         <Row className="justify-content-center">
             {props.skills.map(skill =>
-                <Col
-                     xs="auto"
-                     md="6"
-                     data-testid="skill"
-                     style={{
-                         backgroundColor: getColorByLevel(skill)
-                     }}>
-                    <p>{skill.name}</p>
-                </Col>
+                <Badge skill={skill}/>
             )}
         </Row>
     </Container>);
