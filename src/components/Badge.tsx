@@ -6,7 +6,7 @@ import faker from "faker";
 
 export type SkillLevel = "gold" | "silver" | "bronze";
 
-export default function Badge(props: { skill: string }) {
+export default function Badge(props: { skill: any }) {
 
     const colors = ["gold", "silver", "#cd7f32"];
 

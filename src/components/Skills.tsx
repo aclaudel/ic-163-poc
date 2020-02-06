@@ -4,12 +4,12 @@ import React from "react";
 import Col from "react-bootstrap/Col";
 import Badge, {SkillLevel} from "./Badge";
 
-export default function Skills(props: { skills: string[] }) {
-
+export default function Skills(props: { skills?: any[] }) {
+    const skills2 = props.skills ? props.skills : [];
     return (
     <Container className={"fluid"}>
         <Row className="justify-content-center">
-            {props.skills.map(skill =>
+            {skills2.map(skill =>
                 <Badge skill={skill}/>
             )}
         </Row>

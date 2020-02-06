@@ -7,20 +7,14 @@ import 'react-tagsinput/react-tagsinput.css'
 import * as faker from "faker"; // If using WebPack and style-loader.
 
 
-export default function TagBar() {
-    const options = new Array(faker.random.number(100))
-        .fill(1)
-        .map(_ =>
-            faker.random.words()
-        );
-
+export default function TagBar(props: {initSkills: any[], updateSkills:any}) {
 
     return (
         <Typeahead
         clearButton
-        defaultSelected={options.slice(0, 5)}
         multiple
-        options={options}
+        onChange={props.updateSkills}
+        options={props.initSkills}
         placeholder="Choose a state..."
     />
     );

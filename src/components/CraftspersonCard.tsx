@@ -5,10 +5,9 @@ import faker from "faker";
 import ProfileImage from "./ProfileImage";
 import {Card, Container} from "react-bootstrap";
 
-export default function CraftspersonCard(props: { craftsperson: Craftsperson }) {
+export default function CraftspersonCard(props: { craftsperson: Craftsperson, skills: any[] }) {
 
-    const skills = new Array(faker.random.number(10)).fill(1).map(_ =>
-        faker.commerce.product());
+
 
     return (
         <Card style={{
@@ -23,7 +22,7 @@ export default function CraftspersonCard(props: { craftsperson: Craftsperson }) 
             <Card.Body>
                 <Card.Title className={"text-center"}>{props.craftsperson.name.fullName}</Card.Title>
                 <Card.Text>
-                    <Skills skills={skills}/>
+                    <Skills skills={props.craftsperson.skills}/>
                 </Card.Text>
             </Card.Body>
         </Card>
