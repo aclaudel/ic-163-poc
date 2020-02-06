@@ -1,7 +1,6 @@
 import React from "react";
 import {Craftspeople} from "../core/Craftspeople";
 import CraftspersonCard from "./CraftspersonCard";
-import Col from "react-bootstrap/Col";
 import {CardGroup, Container, Row} from "react-bootstrap";
 
 export default function CraftspeopleView(props: { filteredSkills: any[], craftspeople: Craftspeople, skills:any[] }) {

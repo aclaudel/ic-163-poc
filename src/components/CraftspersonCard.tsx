@@ -1,9 +1,8 @@
 import React from "react";
 import {Craftsperson} from "../core/Craftsperson";
 import Skills from "./Skills";
-import faker from "faker";
 import ProfileImage from "./ProfileImage";
-import {Card, Container} from "react-bootstrap";
+import {Card} from "react-bootstrap";
 
 export default function CraftspersonCard(props: { craftsperson: Craftsperson, skills: any[] }) {
 

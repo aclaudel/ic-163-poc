@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import CraftspeopleView from "./components/CraftspeopleView";
 import CraftspeopleFromGSuite from "./craftspeople_from_gsuite.json";

@@ -1,8 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import React from "react";
-import Col from "react-bootstrap/Col";
-import Badge, {SkillLevel} from "./Badge";
+import Badge from "./Badge";
 
 export default function Skills(props: { skills?: any[] }) {
     const skills2 = props.skills ? props.skills : [];
