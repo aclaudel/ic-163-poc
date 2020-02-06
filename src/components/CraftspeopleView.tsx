@@ -1,6 +1,7 @@
 import React from "react";
 import {Craftspeople} from "../core/Craftspeople";
 import CraftspersonItem from "./CraftspersonItem";
+import Col from "react-bootstrap/Col";
 
 export default function CraftspeopleView(props: { craftspeople: Craftspeople }) {
     return (
