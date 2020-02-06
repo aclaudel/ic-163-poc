@@ -1,14 +1,19 @@
 import React from "react";
 import {Craftspeople} from "../core/Craftspeople";
-import CraftspersonItem from "./CraftspersonItem";
+import CraftspersonCard from "./CraftspersonCard";
 import Col from "react-bootstrap/Col";
+import {CardGroup, Container, Row} from "react-bootstrap";
 
 export default function CraftspeopleView(props: { craftspeople: Craftspeople }) {
     return (
-        <div data-testid="craftspeople-view">
-            {props.craftspeople.map(craftsperson =>
-                <CraftspersonItem craftsperson={craftsperson} />
-            )}
-        </div>
+        <Container data-testid="craftspeople-view">
+            <CardGroup>
+                {props.craftspeople.map(craftsperson =>
+                    <Row>
+                        <CraftspersonCard craftsperson={craftsperson} />
+                    </Row>
+                )}
+            </CardGroup>
+        </Container>
     );
 }

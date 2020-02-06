@@ -1,5 +1,5 @@
 import React from "react";
-import CraftspersonItem from "../components/CraftspersonItem";
+import CraftspersonCard from "../components/CraftspersonCard";
 import CraftspeopleFromGSuite from "../craftspeople_from_gsuite.json";
 
 export default {
@@ -9,4 +9,4 @@ export default {
 const defaultCraftsperson = CraftspeopleFromGSuite.users[9];
 
 export const Default = () =>
-    <CraftspersonItem craftsperson={defaultCraftsperson}/>;
+    <CraftspersonCard craftsperson={defaultCraftsperson}/>;

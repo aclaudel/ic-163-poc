@@ -20,6 +20,7 @@ export default function Skills(props: { skills: { level: string; name: string }[
             {props.skills.map(skill =>
                 <Col
                      xs="auto"
+                     md="6"
                      data-testid="skill"
                      style={{
                          backgroundColor: getColorByLevel(skill)
