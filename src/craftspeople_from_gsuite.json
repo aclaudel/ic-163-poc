@@ -1094,7 +1094,8 @@
         {
           "address": "jose.wenzel@codurance.es"
         }
-      ]
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIfbvvzB2Kq5iQEiC3ZjYXJkX3Bob3RvKig5YTE1MWYwMmUxOTY1YjIwNTFiYzhhMzgzMTY1YmQzYWIzMzVkNTYzMAGJMiSBcaLmlfhPW1S5Ln2QHq7MMg"
     },
     {
       "kind": "admin#directory#user",
