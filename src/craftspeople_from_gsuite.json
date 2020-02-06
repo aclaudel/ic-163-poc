@@ -1,0 +1,2164 @@
+{
+  "users": [
+    {
+      "kind": "admin#directory#user",
+      "id": "115300065078009783984",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/HvTUArWebKKhptwHhEGyYjdvJTQ\"",
+      "primaryEmail": "administration.bcn@codurance.com",
+      "name": {
+        "givenName": "Administration",
+        "familyName": "Codurance",
+        "fullName": "Administration Codurance"
+      },
+      "emails": [
+        {
+          "address": "ruthdiazponte@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "administration.bcn@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "administration.bcn@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "937822882",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECLDNh_mAhLCq1AEiC3ZjYXJkX3Bob3RvKihiYWQyMjFkY2ZhZWYyZDc5MGZmMTU2YTgyNDAxMThhNjFjYjEzNWVlMAFHvZacCodbeVF-0QHtSkXO4kbzLg",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Ija33omyoqWk8cVHX5oQPVDHVCg\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112045797796384394879",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/9wEOTqldcwKKFwIjasfq0rY8o1M\"",
+      "primaryEmail": "alasdair.smith@codurance.com",
+      "name": {
+        "givenName": "Alasdair",
+        "familyName": "Smith",
+        "fullName": "Alasdair Smith"
+      },
+      "emails": [
+        {
+          "address": "alasdair.smith@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "alasdair.smith@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101207503050840364583",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/1J2Qsg1LDg4OLa-Js6FOcI9r6Uw\"",
+      "primaryEmail": "alfredo.fernandez@codurance.com",
+      "name": {
+        "givenName": "Alfredo",
+        "familyName": "Fernandez",
+        "fullName": "Alfredo Fernandez"
+      },
+      "emails": [
+        {
+          "address": "alfredo.fernandez@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "alfredo.fernandez@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116849736098121997127",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/JyDQP--E_IRhTBvZBQXpUieo_2g\"",
+      "primaryEmail": "andre.torres@codurance.com",
+      "name": {
+        "givenName": "Andre",
+        "familyName": "Guelfi Torres",
+        "fullName": "Andre Guelfi Torres"
+      },
+      "emails": [
+        {
+          "address": "andre.torres@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "andre.torres@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "114785193018676667521",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/-vu6RN21-TqRoKokyg0NWqIuMxg\"",
+      "primaryEmail": "andrei.bogomja@codurance.com",
+      "name": {
+        "givenName": "Andrei",
+        "familyName": "Bogomja",
+        "fullName": "Andrei Bogomja"
+      },
+      "emails": [
+        {
+          "address": "andrei.bogomja@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "andrei.bogomja@codurance.es"
+        },
+        {
+          "address": "andrejs.bogomja@codurance.com"
+        },
+        {
+          "address": "andrejs.bogomja@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "114142900460523288661",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/7e_bA3iQiwM2416bvcQ3pcYg_KA\"",
+      "primaryEmail": "andrew.pattison@codurance.com",
+      "name": {
+        "givenName": "Andrew",
+        "familyName": "Pattison",
+        "fullName": "Andrew Pattison"
+      },
+      "emails": [
+        {
+          "address": "andrew.pattison@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "andrew.pattison@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "102596540462076377320",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/u9_VF9m0YNNsGD-u-DqWkDOqelM\"",
+      "primaryEmail": "angels.gilabert@codurance.com",
+      "name": {
+        "givenName": "Angels",
+        "familyName": "Gilabert",
+        "fullName": "Angels Gilabert"
+      },
+      "emails": [
+        {
+          "address": "angels.gilabert@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "angels.gilabert@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113523644235396990139",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/VjnixFTVpJoXUEFHYGbxXpA_MZ8\"",
+      "primaryEmail": "angus.paterson@codurance.com",
+      "name": {
+        "givenName": "Angus",
+        "familyName": "Paterson",
+        "fullName": "Angus Paterson"
+      },
+      "emails": [
+        {
+          "address": "angus.paterson@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "angus.paterson@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117412156221911053830",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/AILtc5MHk5ZuKOb_K_McDpqpDGc\"",
+      "primaryEmail": "anne-marie.mendonca@codurance.com",
+      "name": {
+        "givenName": "Anne-Marie",
+        "familyName": "Mendonca",
+        "fullName": "Anne-Marie Mendonca"
+      },
+      "emails": [
+        {
+          "address": "anne-marie.mendonca@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "anne-marie.mendonca@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113496581754122178981",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/bWBWOvPsoG9efqh92FrVLTjSHRY\"",
+      "primaryEmail": "arnaud.claudel@codurance.com",
+      "name": {
+        "givenName": "Arnaud",
+        "familyName": "Claudel",
+        "fullName": "Arnaud Claudel"
+      },
+      "emails": [
+        {
+          "address": "arnaud.claudel@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "arnaud.claudel@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECKWj4oOPs9-muwEiC3ZjYXJkX3Bob3RvKigzYjNlODVkMGUzZGVhNmFiYWM3OWRlOTU3MDhkNzU2YjI5MzMxZmM2MAHoaOD-DFw1gtSRQOLbbtXvWFbaCQ",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/VInkqOaZjTxNKo4meiufM-TUZ24\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107720738940996346213",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/-LRL6LfmIerPOsS8RV4kf7sY0_c\"",
+      "primaryEmail": "aurelija.zubaviciute@codurance.com",
+      "name": {
+        "givenName": "Aurelija",
+        "familyName": "Zubaviciute",
+        "fullName": "Aurelija Zubaviciute"
+      },
+      "emails": [
+        {
+          "address": "aurelija.zubaviciute@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "aurelija.zubaviciute@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113584563574664543568",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/O3UGomcx6476pbkr8SnvtNIcbJk\"",
+      "primaryEmail": "bartomeu.galmes@codurance.com",
+      "name": {
+        "givenName": "Bartomeu ",
+        "familyName": "Galmes",
+        "fullName": "Bartomeu Galmes"
+      },
+      "emails": [
+        {
+          "address": "bartomeu.galmes@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "bartomeu.galmes@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112444124803171311249",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/h-nczn5QMuew60jQ31FGGDHdVvo\"",
+      "primaryEmail": "bill@codurance.com",
+      "name": {
+        "givenName": "Bill",
+        "familyName": "McKimm",
+        "fullName": "Bill McKimm"
+      },
+      "emails": [
+        {
+          "address": "bill@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "bill@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105293006063704180542",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/xtBLBeQJhclXQC2vlejlzc3wojg\"",
+      "primaryEmail": "chris.bimson@codurance.com",
+      "name": {
+        "givenName": "Christopher",
+        "familyName": "Bimson",
+        "fullName": "Christopher Bimson"
+      },
+      "emails": [
+        {
+          "address": "chris.bimson@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "chris.bimson@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105385664240221819593",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/3urcFdIUJrtnQxGJ9rJNFOayeZo\"",
+      "primaryEmail": "chris.reinmuller@codurance.com",
+      "name": {
+        "givenName": "Christopher",
+        "familyName": "Reinmuller",
+        "fullName": "Christopher Reinmuller"
+      },
+      "emails": [
+        {
+          "address": "chris.reinmuller@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "chris.reinmuller@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCMmlyO_4ou7eSiILdmNhcmRfcGhvdG8qKDgxMDc4M2IxN2Q2OTY0Nzk3YWQ1ZGU3MjkxNGFhNmQ3NzIwOGNlNDMwAfdAU4_lyvIXwIxWaOIGnXlRjwGu",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Xl7Nnxx0ED7ZQ2w-2QDKEGy3tw8\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116431139934499332533",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/2q9wav7_qfBEEcppnHzPiEcNVSs\"",
+      "primaryEmail": "chris@codurance.com",
+      "name": {
+        "givenName": "Chris",
+        "familyName": "Jeffery",
+        "fullName": "Chris Jeffery"
+      },
+      "emails": [
+        {
+          "address": "chris.a.jeffery@gmail.com",
+          "type": "custom",
+          "customType": ""
+        },
+        {
+          "address": "chris@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "chris@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103562770290713387735",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/IAVqTD-mibsZUc8r4IVht1ghx-k\"",
+      "primaryEmail": "christina.ripley@codurance.com",
+      "name": {
+        "givenName": "Christina",
+        "familyName": "Ripley",
+        "fullName": "Christina Ripley"
+      },
+      "emails": [
+        {
+          "address": "christina.ripley@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "christina.ripley@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107990813457582645967",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/0Y0UCwxdtyIimJS1NsvJ6J8v44I\"",
+      "primaryEmail": "christopher.eyre@codurance.com",
+      "name": {
+        "givenName": "Christopher",
+        "familyName": "Eyre",
+        "fullName": "Christopher Eyre"
+      },
+      "emails": [
+        {
+          "address": "christopher.eyre@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "christopher.eyre@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103561672472492858829",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/mkmC4DHEutmhJl0WZSJ1qcnPNQ0\"",
+      "primaryEmail": "daniel.bird@codurance.com",
+      "name": {
+        "givenName": "Daniel",
+        "familyName": "Bird",
+        "fullName": "Daniel Bird"
+      },
+      "emails": [
+        {
+          "address": "daniel.bird@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "daniel.bird@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCM275Ynkx-a2MSILdmNhcmRfcGhvdG8qKGVhYTczZDExMWE1NWU4YmFjODM3MDgzMjQ0MDVkY2ZlYzM1OGM0NzIwAZXaJK7-mNHpiYiSLTz3yW70H09h",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/xndeuNahWaRr-USpriQhn_YGvRg\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103634531868137716869",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/mxCSymtv6qNIReS5-B2jvATw6n8\"",
+      "primaryEmail": "david.halewood@codurance.com",
+      "name": {
+        "givenName": "David",
+        "familyName": "Halewood",
+        "fullName": "David Halewood"
+      },
+      "emails": [
+        {
+          "address": "david.halewood@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "david.halewood@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117856992631651329285",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/om3phQGUsrSCfirM81cH99kaD9w\"",
+      "primaryEmail": "david.hall@codurance.com",
+      "name": {
+        "givenName": "David",
+        "familyName": "Hall",
+        "fullName": "David Hall"
+      },
+      "emails": [
+        {
+          "address": "david.hall@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "david.hall@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIXK4bKChrLo9wEiC3ZjYXJkX3Bob3RvKihmNDUyMTI3ZjU0YWFmMDM4ZGM4ZjI0Y2M3NWMyOGNiZTgxOWZkZTRjMAGmDYNEYU-xKb8yde_JnIx2-7o97A",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/sorXpYXnaAw1YVtmbeDyt9C8UaQ\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101669581000512562834",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/kOQkwU9RyJhtYvHt9M8AdL0fhAs\"",
+      "primaryEmail": "david.welch@codurance.com",
+      "name": {
+        "givenName": "David",
+        "familyName": "Welch",
+        "fullName": "David Welch"
+      },
+      "emails": [
+        {
+          "address": "david.welch@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "david.welch@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117773509636263705166",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/eK9B_0f2A7OevFJph39BRi1BVzw\"",
+      "primaryEmail": "directors@codurance.com",
+      "name": {
+        "givenName": "Managing",
+        "familyName": "Directors",
+        "fullName": "Managing Directors"
+      },
+      "emails": [
+        {
+          "address": "directors@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "directors@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "07787290531",
+          "type": "work"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112695573656306731770",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/rtx25xIbXUALvthjo9o_VZyc9j0\"",
+      "primaryEmail": "edward.rixon@codurance.com",
+      "name": {
+        "givenName": "Edward",
+        "familyName": "Rixon",
+        "fullName": "Edward Rixon"
+      },
+      "emails": [
+        {
+          "address": "edward.rixon@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "edward.rixon@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107550120666670811704",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/YHTmKZx1hnS2v7d3nJG4ei0ZUT4\"",
+      "primaryEmail": "eloy.acosta@codurance.com",
+      "name": {
+        "givenName": "Eloy ",
+        "familyName": "Acosta",
+        "fullName": "Eloy Acosta"
+      },
+      "emails": [
+        {
+          "address": "eloy.acosta@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "eloy.acosta@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCLiU_-Hn19rjaCILdmNhcmRfcGhvdG8qKDQzMzFjZGFlNzVjYTI5YmNlOWJkYzM4Y2Q4NzVkZWEyZDczYjRlMTYwAWi8EAJe9VcmIOxwia2eTge2yAJU",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/3p_gcwJhPs2KboXKAS3b90hJOQQ\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "115070229864074844939",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/JPqsBRiisk1ZKp6wDxQpr9PzCak\"",
+      "primaryEmail": "emily.reboul@codurance.com",
+      "name": {
+        "givenName": "Emily",
+        "familyName": "Reboul",
+        "fullName": "Emily Reboul"
+      },
+      "emails": [
+        {
+          "address": "emy.rbl@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "emily.reboul@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "emily.reboul@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+34722825556",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECIu2qJ30xo2S0QEiC3ZjYXJkX3Bob3RvKigxYzIxOTMwYmNlZjQxYWRjZTc0ZWExMTUyZTNmYWJiOTg0ZjNlZjkzMAFodYgM4YIqDSgz8FvMdcH9fH9YOg",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/2kUvqAOlJyjOOdqXv3adFNKwYUM\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101013323276659737254",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Ki3GkXOQKbbMxwMY48aD0aPhNhM\"",
+      "primaryEmail": "emma.booth@codurance.com",
+      "name": {
+        "givenName": "Emma",
+        "familyName": "Booth",
+        "fullName": "Emma Booth"
+      },
+      "emails": [
+        {
+          "address": "emma.booth@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "emma.booth@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107791287287419655743",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/ZteiT9dNHRFLbN-Wn9ebKmdRqYU\"",
+      "primaryEmail": "ewan.sheldon@codurance.com",
+      "name": {
+        "givenName": "Ewan",
+        "familyName": "Sheldon",
+        "fullName": "Ewan Sheldon"
+      },
+      "emails": [
+        {
+          "address": "ewan.sheldon@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "ewan.sheldon@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "110652730837778816936",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/GUaL6lenJepfb8_h2J8xHKKBepA\"",
+      "primaryEmail": "finance.bcn@codurance.com",
+      "name": {
+        "givenName": "Codurance BCN",
+        "familyName": "Finance",
+        "fullName": "Codurance BCN Finance"
+      },
+      "emails": [
+        {
+          "address": "sandromancuso@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "finance.bcn@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "finance.bcn@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+4407915068066",
+          "type": "work"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106679459873939204942",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/5sEZF301QZHnAA0q1u1fICvI_YM\"",
+      "primaryEmail": "finance.ldn@codurance.com",
+      "name": {
+        "givenName": "Codurance Finance",
+        "familyName": "London",
+        "fullName": "Codurance Finance London"
+      },
+      "emails": [
+        {
+          "address": "finance.ldn@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "finance.ldn@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106632999250270410104",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/2lsS55LcRaL8e3t7gidiaKoSEC8\"",
+      "primaryEmail": "finance@codurance.com",
+      "name": {
+        "givenName": "Codurance",
+        "familyName": "Finance",
+        "fullName": "Codurance Finance"
+      },
+      "emails": [
+        {
+          "address": "finance@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "finance@codurance.es"
+        },
+        {
+          "address": "office@codurance.com"
+        },
+        {
+          "address": "office@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCPiqs97MtcmGXCILdmNhcmRfcGhvdG8qKDNhMzUzYmM1MzI1MDU2NjAwMzE2ZDhhNzkyYWQ1YTJmMjNjNjE5OTIwAWnm8boHDL8J0CJIwHjEkelh6TOy",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Nw3jsEOSnLz1O1W_sEnxBVZ4nLk\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103765920758745217412",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/vf24i-89Lb74PqvmGpOQiH1aaxY\"",
+      "primaryEmail": "francesco.gigli@codurance.com",
+      "name": {
+        "givenName": "Francesco",
+        "familyName": "Gigli",
+        "fullName": "Francesco Gigli"
+      },
+      "emails": [
+        {
+          "address": "francesco.gigli@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "francesco.gigli@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCITznKqjn8-hNCILdmNhcmRfcGhvdG8qKDc4YTY3ODNkYmE1YWJiN2IwOTdiNWUwZWFiYzJjYmEzNWFmZmU4OGYwAeo7tAYuEaXIovmMkmMnm87jeI3Z",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/52EuaOOq8RsrPD2UJ1QsKyj1jlA\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111407554501397279671",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/dQzzvBkba2LEGxqJTpsZwQow-d4\"",
+      "primaryEmail": "giulia@codurance.com",
+      "name": {
+        "givenName": "Giulia",
+        "familyName": "Mantuano",
+        "fullName": "Giulia Mantuano"
+      },
+      "emails": [
+        {
+          "address": "giulia@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "giulia@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECLfnxZ2RzPGnngEiC3ZjYXJkX3Bob3RvKig5MGQ2NzYzZDE5ODhhODAxNzRiM2VkOGM3ZDZiMDczZDY1ZTAyNTE3MAG2T_pKL9V0wzMeIGRUJnWe2Xlz_w",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/6FmPAzzVEX_NhlFwdwpOD7DbEjs\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116244849510850065650",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/UPNTRbMYJz7dCPHfc2Ugg5XsMlI\"",
+      "primaryEmail": "giulio.perrone@codurance.com",
+      "name": {
+        "givenName": "Giulio ",
+        "familyName": "Perrone",
+        "fullName": "Giulio Perrone"
+      },
+      "emails": [
+        {
+          "address": "giulio.perrone@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "giulio.perrone@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116879809257175224518",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/wxQJJ5zmoE0NlQ2ACfBBcxQtRfY\"",
+      "primaryEmail": "gonzalo.gomez@codurance.com",
+      "name": {
+        "givenName": "Gonzalo",
+        "familyName": "Gómez",
+        "fullName": "Gonzalo Gómez"
+      },
+      "emails": [
+        {
+          "address": "ggomezsullain@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "gonzalo.gomez@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "gonzalo.gomez@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117266669850189099681",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Ts91hdXo2lKxrKc5XIh-kx4XNaQ\"",
+      "primaryEmail": "gregory.cann@codurance.com",
+      "name": {
+        "givenName": "Gregory",
+        "familyName": "Cann",
+        "fullName": "Gregory Cann"
+      },
+      "emails": [
+        {
+          "address": "gregory.cann@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "gregory.cann@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100882015778153954923",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/cw1bXrKAclmUzf8M3ahkN6iMVe8\"",
+      "primaryEmail": "guillem@codurance.com",
+      "name": {
+        "givenName": "Ruth Guillem",
+        "familyName": "Ruth Guillem",
+        "fullName": "Ruth Guillem Ruth Guillem"
+      },
+      "emails": [
+        {
+          "address": "ruthdiazponte@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "guillem@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "guillem@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "676643054",
+          "type": "work"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117529254453279420325",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/IWKvgTRuythqb_mDV2KEzgyvgO0\"",
+      "primaryEmail": "helena.abellan@codurance.com",
+      "name": {
+        "givenName": "Helena",
+        "familyName": "Abellán",
+        "fullName": "Helena Abellán"
+      },
+      "emails": [
+        {
+          "address": "abellan.helena@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "helena.abellan@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "helena.abellan@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+34600560822",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECKXfnYnSgZui8wEiC3ZjYXJkX3Bob3RvKihlMTZmZmI5YWU0N2ViZDZjMDQxNzg4ZmFjZjYwYzRjYjM1ZjViNmQ4MAF5Ag9xA7QXN6tte1i0YXkkNhSr5Q",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/_ABvuE73qeG3ItUPW83nnP-whB8\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104546729750792334324",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/1goLHkqQnkHnFhreUgjxZ4QhDo4\"",
+      "primaryEmail": "ivan.katzarski@codurance.com",
+      "name": {
+        "givenName": "Ivan",
+        "familyName": "Katzarski",
+        "fullName": "Ivan Katzarski"
+      },
+      "emails": [
+        {
+          "address": "ivan.katzarski@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "ivan.katzarski@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "108797118406290787119",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/e7wAfhl4dwBABSsTFRow_00NRno\"",
+      "primaryEmail": "jack.coleman@codurance.com",
+      "name": {
+        "givenName": "Jack",
+        "familyName": "Coleman",
+        "fullName": "Jack Coleman"
+      },
+      "emails": [
+        {
+          "address": "jack82coleman@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "jack.coleman@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jack.coleman@codurance.es"
+        },
+        {
+          "address": "jack.colemanzo@codurance.com"
+        },
+        {
+          "address": "jack.colemanzo@codurance.es"
+        }
+      ],
+      "organizations": [
+        {
+          "primary": true,
+          "customType": "",
+          "department": "Sales Department"
+        }
+      ],
+      "phones": [
+        {
+          "value": " 0034 633 39 91 54",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCK-WjbDNkumKeiILdmNhcmRfcGhvdG8qKGY0YjNkOTM5ZWI1ZjQxYTI4NmMyNTkyMmY2NWNjZGNkMTRlNTUzY2MwAfxxi1mQogakNp_xLz0vcTu5Q19E",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/z3cN9Fs4UsyZFlNXqhUZfPYn5cI\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112069193328284306753",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/U6aDCaq1P5-hky7ZCeXtdQkYQ7s\"",
+      "primaryEmail": "james.birnie@codurance.com",
+      "name": {
+        "givenName": "James",
+        "familyName": "Birnie",
+        "fullName": "James Birnie"
+      },
+      "emails": [
+        {
+          "address": "james.birnie@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "james.birnie@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107642966525873666982",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/upXvSuuYD4p-mvy3QE-o0uXsHhQ\"",
+      "primaryEmail": "jim.bourke@codurance.com",
+      "name": {
+        "givenName": "Jim",
+        "familyName": "Bourke",
+        "fullName": "Jim Bourke"
+      },
+      "emails": [
+        {
+          "address": "jim.bourke@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jim.bourke@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106689958599741620105",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/yKdKVCXHJwTcwhTfSd2fqKMKB9g\"",
+      "primaryEmail": "jocelyn.facchini@codurance.com",
+      "name": {
+        "givenName": "Jocelyn",
+        "familyName": "Facchini",
+        "fullName": "Jocelyn Facchini"
+      },
+      "emails": [
+        {
+          "address": "jocelyn.facchini@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jocelyn.facchini@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104958655185808774549",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/n57Z8amt3uMiH-srWIs60uTUm8k\"",
+      "primaryEmail": "jordan.robinson@codurance.com",
+      "name": {
+        "givenName": "Jordan",
+        "familyName": "Robinson",
+        "fullName": "Jordan Robinson"
+      },
+      "emails": [
+        {
+          "address": "jordan.robinson@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jordan.robinson@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJWrn47p06voRCILdmNhcmRfcGhvdG8qKDUxYmQ3YTNkODQ4OGE0NDA5OWJlMmU5YzUyZjhkYzA1MGIwNDRjM2UwAd8OwmP5tN7sW8b43gjNmE6WEm1C",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/FH7HO137XF3Tuk3CMAHT-S5zym0\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111511403977319386822",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/DO1reqZY9enIq_2yO9JbfLLmYe4\"",
+      "primaryEmail": "jordi.creus@codurance.com",
+      "name": {
+        "givenName": "Jordi",
+        "familyName": "Creus",
+        "fullName": "Jordi Creus"
+      },
+      "emails": [
+        {
+          "address": "monitotxi@gmail.com",
+          "type": "home"
+        },
+        {
+          "address": "jordi.creus@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jordi.creus@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECMadkLHWna7gnwEiC3ZjYXJkX3Bob3RvKihmMGViZWIxMTVlYzk2MDFmMTI2MTBhYzczMDFkZTI4OTUxY2UzMWNiMAFYHBXHM70HbIckVfi8YSI3VWJVkQ",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/TieJnD4sngevkVDhKqwaX8lAzyA\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107271833042527889650",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/5v2ef6q1kwtTa_Yz1HLmKypoupA\"",
+      "primaryEmail": "jorge.gueorguiev@codurance.com",
+      "name": {
+        "givenName": "Jorge",
+        "familyName": "Gueorguiev Garcia",
+        "fullName": "Jorge Gueorguiev Garcia"
+      },
+      "emails": [
+        {
+          "address": "jorge.gueorguiev@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jorge.gueorguiev@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCPLRyq79s6_1ZCILdmNhcmRfcGhvdG8qKGJiMmM0MmM3OTJlYmI5OTNiY2JiYTU0NWRlOTM1MTQ4NTI2NzZkNWIwAWJPS_qoSKsfmGU8yHt1ySoFbz-L",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/oDMTlsDCXalG7RQW4aAv4lbzsMo\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109904166289860963719",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/vbgOJYXAi-6bZ1x2BeIpKEZghlI\"",
+      "primaryEmail": "jose.wenzel@codurance.com",
+      "name": {
+        "givenName": "José",
+        "familyName": "Wenzel",
+        "fullName": "José Wenzel"
+      },
+      "emails": [
+        {
+          "address": "jose.campos@codurance.com"
+        },
+        {
+          "address": "jose.campos@codurance.es"
+        },
+        {
+          "address": "jose.wenzel@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jose.wenzel@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104120247081876706082",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/qamOFt-WQVEK6qRbbVOgOEu-API\"",
+      "primaryEmail": "jrhuerta@codurance.com",
+      "name": {
+        "givenName": "Jose Enrique",
+        "familyName": "Rodríguez Huerta",
+        "fullName": "Jose Enrique Rodríguez Huerta"
+      },
+      "emails": [
+        {
+          "address": "staff.tsr@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "fernando.rafart@codurance.com"
+        },
+        {
+          "address": "fernando.rafart@codurance.es"
+        },
+        {
+          "address": "jrhuerta@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "jrhuerta@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "615968096",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCKKm57DB3IOXOSILdmNhcmRfcGhvdG8qKGU0ODYwYTZjN2Y0NTk1OGQwNzA5NmMxZDVlOGI1Zjc1M2E0MmFkY2QwAVg1WIw1W8faIocdClA7JrJoqYaS",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Miu5gjfv6kVZIBX7r31RcjPEEVM\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116221704548323240305",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/O60wNRjaXH5VMYNIvDkKfOeOg5c\"",
+      "primaryEmail": "karolina.kondzielewska@codurance.com",
+      "name": {
+        "givenName": "Karolina",
+        "familyName": "Kondzielewska",
+        "fullName": "Karolina Kondzielewska"
+      },
+      "emails": [
+        {
+          "address": "karolina.kondzielewska@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "karolina.kondzielewska@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107179425041563701930",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/iDxRfFWeyBnT5fah9Sk2stqbAnU\"",
+      "primaryEmail": "keith.smale@codurance.com",
+      "name": {
+        "givenName": "Keith",
+        "familyName": "Smale",
+        "fullName": "Keith Smale"
+      },
+      "emails": [
+        {
+          "address": "keith.smale@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "keith.smale@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCKqly--XoZzRYyILdmNhcmRfcGhvdG8qKGZmMGI1NzI1NGYxMTFlNDE0Y2IzZWZmN2YwNDVkN2U4ODcyOWQzMDgwAVUy4LgwfACpX3XjH9PK9daEgpA1",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/fTvlzcX9tmc56C5J9dcy5UTDlq4\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "114273439590000590845",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/H4Zh65NFs_yX2q4VCMGGAIx9a7E\"",
+      "primaryEmail": "kristian.munoz@codurance.com",
+      "name": {
+        "givenName": "Kristian",
+        "familyName": "Muñoz",
+        "fullName": "Kristian Muñoz"
+      },
+      "emails": [
+        {
+          "address": "kristian.mzmz@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "cristian.munoz@codurance.com"
+        },
+        {
+          "address": "cristian.munoz@codurance.es"
+        },
+        {
+          "address": "kristian.munoz@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "kristian.munoz@codurance.es"
+        }
+      ],
+      "phones": [
+        {
+          "value": "+34687423740",
+          "type": "work"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECP3_7afutdyKxgEiC3ZjYXJkX3Bob3RvKihiZWQ0MmZlN2M4MGMxOGJlMjliMWRhZmYwN2Q3ZmQzNDFiM2QzZWJlMAGUZlVZk9MAMGC23vKQ_eIKiO-mRg",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/v1N54u87tGNkq6Gp78HgVmQlTa0\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113712811673562936231",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/RDTVDAaQbuQvdX1WBX8s_lxh4U0\"",
+      "primaryEmail": "krzysztof@codurance.com",
+      "name": {
+        "givenName": "Krzysztof ",
+        "familyName": "Napierala",
+        "fullName": "Krzysztof Napierala"
+      },
+      "emails": [
+        {
+          "address": "krzysztof@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "krzysztof@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "117368476216540431171",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/ka6jZltmKymaxwyFoGDGra5kkXw\"",
+      "primaryEmail": "lau.llobet@codurance.com",
+      "name": {
+        "givenName": "Lau",
+        "familyName": "Llobet",
+        "fullName": "Lau Llobet"
+      },
+      "emails": [
+        {
+          "address": "lau.llobet@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "lau.llobet@codurance.es"
+        },
+        {
+          "address": "lau.llolbet@codurance.com"
+        },
+        {
+          "address": "lau.llolbet@codurance.es"
+        },
+        {
+          "address": "lau.lolbet@codurance.com"
+        },
+        {
+          "address": "lau.lolbet@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107928807362858665039",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/EaXsnyBaSYwyQiFqT4d9VqeB83Q\"",
+      "primaryEmail": "laurence.lord@codurance.com",
+      "name": {
+        "givenName": "Laurence",
+        "familyName": "Lord",
+        "fullName": "Laurence Lord"
+      },
+      "emails": [
+        {
+          "address": "laurence.lord@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "laurence.lord@codurance.es"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCM-IxZ2bibKEbiILdmNhcmRfcGhvdG8qKDlhN2NhNmM4NDY4MDEwZTkyYmViNTY2MmI5YjZlMGJkZWIyMDJmZjkwAYxD_LfMTfMDP2I2tVDI4tE13VwL",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/FIKcMJ9jBdOOua2hYiAOF1Bb9Eg\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113541298027489330207",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/GUo-pdHkclpmb0rgDmL7i0hD2Qc\"",
+      "primaryEmail": "liamg@codurance.com",
+      "name": {
+        "givenName": "Liam",
+        "familyName": "Griffin",
+        "fullName": "Liam Griffin"
+      },
+      "emails": [
+        {
+          "address": "liamg@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "liamg@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECJ-IzLH62Zb2uwEiC3ZjYXJkX3Bob3RvKig4MGM0NWI5MDFjMDI4NmFjOGQ5ZGZjYzNlNGI0YjBhNWE1YmVkZDMxMAF_HMUfAPJyx-uBLyfoUJ_C3RX9og",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/8knKbqNWkWzmH-ulPIQw5471TFw\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112039777766597411085",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/rylkh09mzyhSzCjUfWREIdd1MqU\"",
+      "primaryEmail": "liliana.carneiro@codurance.com",
+      "name": {
+        "givenName": "Liliana",
+        "familyName": "Carneiro",
+        "fullName": "Liliana Carneiro"
+      },
+      "emails": [
+        {
+          "address": "liliana.carneiro@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "liliana.carneiro@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECI2CvcXtwviKpwEiC3ZjYXJkX3Bob3RvKihiNWVkYmNkMWExNmY0NDUzZWQ3NjIwZTY2MDdiNWNjYTllZDBkM2VhMAGrMveSwcpySatOWvPqeR19UulBWA",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/1pykz-YoOhN0ro81ib4F05rTuyg\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100782538921791512520",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/klpJ_flUTRybSH5reTkezRHa2ow\"",
+      "primaryEmail": "luciano.palma@codurance.com",
+      "name": {
+        "givenName": "Luciano",
+        "familyName": "Palma",
+        "fullName": "Luciano Palma"
+      },
+      "emails": [
+        {
+          "address": "luciano.palma@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "luciano.palma@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113060269031097315298",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/wkAgEsERksRXUCXgscbwWyme1-A\"",
+      "primaryEmail": "magda.firek@codurance.com",
+      "name": {
+        "givenName": "Magdalena",
+        "familyName": "Firek",
+        "fullName": "Magdalena Firek"
+      },
+      "emails": [
+        {
+          "address": "magda.firek@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "magda.firek@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECOLf3OzMr9mftQEiC3ZjYXJkX3Bob3RvKig0ZDQ0ZTMwOTJjYTBlZTJlMGM1NzE4NTg3OTljZTJmYTlkYTIwZGE3MAET9Qo7nswACWV1A7D-lg3hXUZSrQ",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/IQ1GOTFGapxKKi_Dawr-cHqCqmM\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "102835758672493211900",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/cdt4hVwPlVaQ9YJCTeemi7_DLzo\"",
+      "primaryEmail": "marius.alexandru.ignat@codurance.com",
+      "name": {
+        "givenName": "Marius (Alexandru)",
+        "familyName": "Ignat",
+        "fullName": "Marius (Alexandru) Ignat"
+      },
+      "emails": [
+        {
+          "address": "marius.alexandru.ignat@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "marius.alexandru.ignat@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "marius.alexandru.ignat@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "109944639658513285984",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/q7XQq91a8VAlwydI3UvxWnRHvFY\"",
+      "primaryEmail": "mark.gray@codurance.com",
+      "name": {
+        "givenName": "Mark",
+        "familyName": "Gray",
+        "fullName": "Mark Gray"
+      },
+      "emails": [
+        {
+          "address": "mark.gray@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "mark.gray@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106076167301112298089",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/CIuuMuyi_yPRux6lf19HxibmyvA\"",
+      "primaryEmail": "mash@codurance.com",
+      "name": {
+        "givenName": "Mashooq",
+        "familyName": "Badar",
+        "fullName": "Mashooq Badar"
+      },
+      "emails": [
+        {
+          "address": "mashooq.badar@gmail.com",
+          "type": "custom",
+          "customType": ""
+        },
+        {
+          "address": "mash@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "mash@codurance.es"
+        },
+        {
+          "address": "mashooq.badar@codurance.com"
+        },
+        {
+          "address": "mashooq.badar@codurance.es"
+        },
+        {
+          "address": "mashooq@codurance.com"
+        },
+        {
+          "address": "mashooq@codurance.es"
+        }
+      ],
+      "addresses": [
+        {
+          "type": "work",
+          "formatted": "15 Northburgh Street, London. E11 2SD"
+        }
+      ],
+      "locations": [
+        {
+          "type": "desk",
+          "area": "desk",
+          "buildingId": "London-Office"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/public/AIbEiAIAAABDCOn0kdX6vripVCILdmNhcmRfcGhvdG8qKDQxNDFjOGU0YTgzMzUzZmVhNzhmMzQyNmU4NzZjMzdkNGE4NDRkZmUwAZXf2vqNSPUXZdDms0cy-xIIMoR6",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/V7hp1Lx-0U1WsRqapLgCPV6PQ3g\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "107970665267232912754",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/9dtMUyrN22NmPWgTnxJ2tToBN-o\"",
+      "primaryEmail": "matthew.gray@codurance.com",
+      "name": {
+        "givenName": "Matthew",
+        "familyName": "Gray",
+        "fullName": "Matthew Gray"
+      },
+      "emails": [
+        {
+          "address": "matthew.gray@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "matthew.gray@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "115248681108452454993",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/i682mt2kM4mIrIHBAddwEHATCjs\"",
+      "primaryEmail": "mattsi.jansky@codurance.com",
+      "name": {
+        "givenName": "Mattsi",
+        "familyName": "Jansky",
+        "fullName": "Mattsi Jansky"
+      },
+      "emails": [
+        {
+          "address": "mattsi.jansky@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "mattsi.jansky@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECNHkktTV1YzP0wEiC3ZjYXJkX3Bob3RvKihlNDM2ZTUwM2UwOWQ0Njg5YTMxYWEyOWU0NmVkOTJiYjFlOTVhNDcxMAFI66be911TcW9acHrjQbkwBrsiNQ",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/8Juq0tCUrYAIEUAI7nEj-wTbW1I\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "110746309056624043784",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/nfcnxmk_5x3IcZDDaMmVRZV6Iog\"",
+      "primaryEmail": "meetingroomapp@codurance.com",
+      "name": {
+        "givenName": "MeetingRoom",
+        "familyName": "App",
+        "fullName": "MeetingRoom App"
+      },
+      "emails": [
+        {
+          "address": "meetingroomapp@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "meetingroomapp@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116272355430855367882",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/eZFVXYMe5eBW3T6s5PIx0rBJ22k\"",
+      "primaryEmail": "neil.kidd@codurance.com",
+      "name": {
+        "givenName": "Neil",
+        "familyName": "Kidd",
+        "fullName": "Neil Kidd"
+      },
+      "emails": [
+        {
+          "address": "neil.kidd@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "neil.kidd@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100263678205507159068",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/kWoes_Ldjr2AzP6yVAKUCrZylPI\"",
+      "primaryEmail": "nichole.mellekas@codurance.com",
+      "name": {
+        "givenName": "Nichole",
+        "familyName": "Mellekas",
+        "fullName": "Nichole Mellekas"
+      },
+      "emails": [
+        {
+          "address": "nichole.mellekas@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "nichole.mellekas@codurance.es"
+        },
+        {
+          "address": "nichole@codurance.com"
+        },
+        {
+          "address": "nichole@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJyIkfLkvbHUAyILdmNhcmRfcGhvdG8qKGFjNWEyYjQyMGY4YWVjNTFkYjUzMDgwMzU5MzI5Y2VmZDZiNWE2ZTIwAfNu-8lFetMKS8aNWmlavZXD5lWW",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/WoS7KUbNSZoMIdd2L2OugapTfVE\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105585197358682906084",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/J4P0ypNEMOYVufyraJXJWg6HFgk\"",
+      "primaryEmail": "pierre-jean.baraud@codurance.com",
+      "name": {
+        "givenName": "Pierre-Jean",
+        "familyName": "Baraud",
+        "fullName": "Pierre-Jean Baraud"
+      },
+      "emails": [
+        {
+          "address": "pierre-jean.baraud@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "pierre-jean.baraud@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103713246023302230969",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Zxbea6WPHHm12CDAYGwxTyjsPNM\"",
+      "primaryEmail": "raul.mordillo@codurance.com",
+      "name": {
+        "givenName": "Raul",
+        "familyName": "Mordillo",
+        "fullName": "Raul Mordillo"
+      },
+      "emails": [
+        {
+          "address": "roaslin@gmail.com",
+          "type": "work"
+        },
+        {
+          "address": "raul.mordillo@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "raul.mordillo@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101003387924487727317",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/dKtmZDSE3dqJCuAUbuRtP6jL6kA\"",
+      "primaryEmail": "riccardo.toni@codurance.com",
+      "name": {
+        "givenName": "Riccardo",
+        "familyName": "Toni",
+        "fullName": "Riccardo Toni"
+      },
+      "emails": [
+        {
+          "address": "riccardo.toni@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "riccardo.toni@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "111845669814433582803",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/R0gPFpTPCfKMSXJvR7qaW3x_dxU\"",
+      "primaryEmail": "richard.wild@codurance.com",
+      "name": {
+        "givenName": "Richard",
+        "familyName": "Wild",
+        "fullName": "Richard Wild"
+      },
+      "emails": [
+        {
+          "address": "richard.wild@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "richard.wild@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECNOdhr_2vZGypAEiC3ZjYXJkX3Bob3RvKihmZWQyYWY3NzY1NzQ2M2I0ZWZiM2E2ZDU5NWEwZDk0ZDNmYzY1NzcyMAEWr5L87Iy6dsTGhFzSq1lrU2kR2A",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/oHiwVhXxUhHwjt_-zfJZQHX7gjI\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101452752791930175259",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/zxR7gvNpVT_2GdvbplFpjCGI_5o\"",
+      "primaryEmail": "rob@codurance.com",
+      "name": {
+        "givenName": "Robert",
+        "familyName": "Taylor",
+        "fullName": "Robert Taylor"
+      },
+      "emails": [
+        {
+          "address": "rob@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "rob@codurance.es"
+        },
+        {
+          "address": "robert.taylor@codurance.com"
+        },
+        {
+          "address": "robert.taylor@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "112313966150672226634",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/UFFl9lhPMAbVu7QfX8ZedxbDAs4\"",
+      "primaryEmail": "rory.collins@codurance.com",
+      "name": {
+        "givenName": "Rory ",
+        "familyName": "Collins",
+        "fullName": "Rory Collins"
+      },
+      "emails": [
+        {
+          "address": "rory.collins@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "rory.collins@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106421452240365353533",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/w-21o1Sqq37fj0eqcEJ_5vY0EE0\"",
+      "primaryEmail": "ruth.diaz@codurance.com",
+      "name": {
+        "givenName": "Ruth ",
+        "familyName": "Diaz",
+        "fullName": "Ruth Diaz"
+      },
+      "emails": [
+        {
+          "address": "ruth.diaz@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "ruth.diaz@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCL3084ilmeWOWSILdmNhcmRfcGhvdG8qKDZhYTQ3YjY2YTQ4NjM3MzhjM2U3NGRkM2U3NWRiMzdjZTE3NWRhYjAwAeq1xa9M3updpziE_3wGkM6LGNZ0",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/20tmn-IOMH0f0JpTKXHANcW5up4\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106698213862433966490",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/wDgxZrGgRcXq8O7YlvCuc9nADsg\"",
+      "primaryEmail": "sam.davies@codurance.com",
+      "name": {
+        "givenName": "Sam",
+        "familyName": "Davies",
+        "fullName": "Sam Davies"
+      },
+      "emails": [
+        {
+          "address": "samedavies@hotmail.co.uk",
+          "type": "work"
+        },
+        {
+          "address": "sam.davies@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sam.davies@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "103435870782513979302",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/wb-13KHPfkHSEoQbUoCHvhrouow\"",
+      "primaryEmail": "sandro.viljoen@codurance.com",
+      "name": {
+        "givenName": "Sandro",
+        "familyName": "Viljoen",
+        "fullName": "Sandro Viljoen"
+      },
+      "emails": [
+        {
+          "address": "sandro.viljoen@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sandro.viljoen@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "116182600065117779197",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/fPJ9WcK2UF22v3QALudNkMG3ed8\"",
+      "primaryEmail": "sandro@codurance.com",
+      "name": {
+        "givenName": "Sandro",
+        "familyName": "Mancuso",
+        "fullName": "Sandro Mancuso"
+      },
+      "emails": [
+        {
+          "address": "sandro.mancuso@codurance.com"
+        },
+        {
+          "address": "sandro.mancuso@codurance.es"
+        },
+        {
+          "address": "sandro@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sandro@codurance.es"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/public/AIbEiAIAAABECP3pu7zSoInK4AEiC3ZjYXJkX3Bob3RvKihkZWIxNzc1NjUyYmU2M2MxZjhkMjM5MGUwNWNkZjIxMjI5ZDBlZTgzMAF0eDs8X_fiBIHo5YXZvNSsaIcExA",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/8RdVlQ7lJNp9ecCzqCUBv2aMn14\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "101631774440197008813",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/ezo7apparsIIu75mJNYe7T8WASw\"",
+      "primaryEmail": "scott.edwards@codurance.com",
+      "name": {
+        "givenName": "Scott",
+        "familyName": "Edwards",
+        "fullName": "Scott Edwards"
+      },
+      "emails": [
+        {
+          "address": "scott.edwards@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "scott.edwards@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCK3bhKzTxs7SFiILdmNhcmRfcGhvdG8qKGU1NmUyZjAxYTJkYTk0ZTU5NWVhZGY4NjRkN2Y4MTkxMTMwNDM0MzIwAUSdvfzkpXxrY54mYFDGixzEFqWk",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/sK7EqbUTV8PcXT3JnqoE459nXTo\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "114886325630098206422",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/iYuRQpg4yA4rgDksmAAzmn7LjFc\"",
+      "primaryEmail": "sherlock.qiao@codurance.com",
+      "name": {
+        "givenName": "Zhiqiang",
+        "familyName": "Qiao",
+        "fullName": "Zhiqiang Qiao"
+      },
+      "emails": [
+        {
+          "address": "sherlock.qiao@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sherlock.qiao@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "100441083128628607778",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/QOlU695k-OhN-2y_yof7_ktqWCE\"",
+      "primaryEmail": "sidhaesh.sivanandam@codurance.com",
+      "name": {
+        "givenName": "Sidhaesh",
+        "familyName": "Sivanandam",
+        "fullName": "Sidhaesh Sivanandam"
+      },
+      "emails": [
+        {
+          "address": "sidhaesh.sivanandam@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sidhaesh.sivanandam@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "113573095198730744077",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/W13HKtO1DZ4ZVQ40imTKx4QIwrk\"",
+      "primaryEmail": "solange@codurance.com",
+      "name": {
+        "givenName": "Solange",
+        "familyName": "Gasengayire Umuhire",
+        "fullName": "Solange Gasengayire Umuhire"
+      },
+      "emails": [
+        {
+          "address": "solange@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "solange@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECI3in_e3xdSuvAEiC3ZjYXJkX3Bob3RvKigxZDFhZDIxYzEwOTI2NmYwNTFiNzIxNTUxZWFkMTMxYmExMzdjMGYyMAF1awxNjhj_aBJA8rZudSB8ELweng",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/gQNQReF0SPnJrIzp0wwzpMvYlLg\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "115684635146263681606",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/QBZcxeOBuuI_deD2siMtRDDj2Ao\"",
+      "primaryEmail": "stephane.meny@codurance.com",
+      "name": {
+        "givenName": "Stéphane",
+        "familyName": "Meny",
+        "fullName": "Stéphane Meny"
+      },
+      "emails": [
+        {
+          "address": "stephane.meny@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "stephane.meny@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABECMa0naWJksHV2QEiC3ZjYXJkX3Bob3RvKigwYWQ4MjMzYTNkNmYwMDY5MDg1ZTBkOGE0ZWU5YWE4NTJjZjFlNWY0MAFywgyhsChToFc_2ZnAbcC8z5Fp8g",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/pU5f--iXEqO-YxaiOCYUTVimX0I\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "118145936508951915220",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/xzHVmCK_7NHeQklR3wx8ERxOrCY\"",
+      "primaryEmail": "steve@codurance.com",
+      "name": {
+        "givenName": "Steve",
+        "familyName": "Lydford",
+        "fullName": "Steve Lydford"
+      },
+      "emails": [
+        {
+          "address": "steve@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "steve@codurance.es"
+        }
+      ],
+      "gender": {
+        "type": "male"
+      },
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/public/AIbEiAIAAABECNTV-6bRo9Tp-wEiC3ZjYXJkX3Bob3RvKig5NThlMDcxYTBkZTc2NThlZmUzYmZlYTRlN2RmOTM0MWVhMTIwOWE2MAGfoP1DTAPRk_av7gRx2YkwlTFw_A",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/psebmIjOXtdcWAu87H_tRjPk5AA\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "104922641740062055829",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/Cer1Y3tHAq5qA6TZWGOSE9Rykvo\"",
+      "primaryEmail": "sylvester.loreto@codurance.com",
+      "name": {
+        "givenName": "Sylvester ",
+        "familyName": "Loreto",
+        "fullName": "Sylvester Loreto"
+      },
+      "emails": [
+        {
+          "address": "sylvester.loreto@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "sylvester.loreto@codurance.es"
+        }
+      ],
+      "thumbnailPhotoUrl": "https://www.google.com/s2/photos/private/AIbEiAIAAABDCJW7o4fNkq-oRCILdmNhcmRfcGhvdG8qKDhkNTBiMmQ0MTQ3MzRmMGZmYTI4YjlhMjYxNzRhMjlhMzcwZTcwYTcwAQxnoW6BWlXZj2LzqwLSTuZ6geiN",
+      "thumbnailPhotoEtag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/bfLRcJuXT22hAWYh0FtvvkeREY8\""
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "115483739095004416357",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/xKXtV0Ut7PvBY2HHNe-kU4meMQg\"",
+      "primaryEmail": "tacuma.bellford@codurance.com",
+      "name": {
+        "givenName": "Tacuma",
+        "familyName": "Bellford",
+        "fullName": "Tacuma Bellford"
+      },
+      "emails": [
+        {
+          "address": "tacuma.bellford@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "tacuma.bellford@codurance.es"
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "108189042856121065201",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/PBG8xuLRV4iGH1dA1kmHUBqmLp4\"",
+      "primaryEmail": "terry.balfour@codurance.com",
+      "name": {
+        "givenName": "Terry",
+        "familyName": "Balfour",
+        "fullName": "Terry Balfour"
+      },
+      "emails": [
+        {
+          "address": "terry.balfour@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "terry.balfour@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "106850099568765748037",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/x-LQ6WyvOuLOZ4CmVKl9hRTduIE\"",
+      "primaryEmail": "tony.georgiadis@codurance.com",
+      "name": {
+        "givenName": "Tony",
+        "familyName": "Georgiadis",
+        "fullName": "Tony Georgiadis"
+      },
+      "emails": [
+        {
+          "address": "tony.georgiadis@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "tony.georgiadis@codurance.es"
+        }
+      ],
+      "externalIds": [
+        {
+          "value": "",
+          "type": "organization"
+        }
+      ],
+      "organizations": [
+        {
+          "title": "",
+          "primary": true,
+          "customType": "",
+          "department": "",
+          "description": "",
+          "costCenter": ""
+        }
+      ]
+    },
+    {
+      "kind": "admin#directory#user",
+      "id": "105608269814968030857",
+      "etag": "\"enlFCt4L0-k8PoIKzRNl5h_fsrc/uftzY9aqvSxD1P2FZQkSdx6IV0M\"",
+      "primaryEmail": "zabih.safdari@codurance.com",
+      "name": {
+        "givenName": "Zabih",
+        "familyName": "Safdari",
+        "fullName": "Zabih Safdari"
+      },
+      "emails": [
+        {
+          "address": "zabih.safdari@codurance.com",
+          "primary": true
+        },
+        {
+          "address": "zabih.safdari@codurance.es"
+        }
+      ]
+    }
+  ]
+}

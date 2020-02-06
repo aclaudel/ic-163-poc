@@ -1,24 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import CraftspeopleView from "./components/CraftspeopleView";
+import CraftspeopleFromGSuite from "./craftspeople_from_gsuite.json";
 
 export default function App() {
+  const craftspeople = CraftspeopleFromGSuite.users;
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Reactk
-        </a>
-      </header>
-    </div>
+    <CraftspeopleView craftspeople={craftspeople} />
   );
 };
