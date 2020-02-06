@@ -17,7 +17,7 @@ export default function CraftspersonCard(props: { craftsperson: Craftsperson }) 
         }}>
             <Card.Header>
                 <div className="image-container">
-                    <ProfileImage source={props.craftsperson.thumbnailPhotoUrl}/>
+                    <ProfileImage source={faker.image.avatar()}/>
                 </div>
             </Card.Header>
             <Card.Body>
