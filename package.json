@@ -26,7 +26,10 @@
     "react-scripts": "3.3.1",
     "react-tag-input": "^6.4.2",
     "react-tagsinput": "^3.19.0",
-    "typescript": "~3.7.2"
+    "typescript": "~3.7.2",
+    "@types/react-bootstrap-typeahead": "^3.4.5",
+    "@types/react-tag-input": "^6.1.2",
+    "@types/react-tagsinput": "^3.19.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -58,8 +61,5 @@
     "@storybook/addons": "^5.3.12",
     "@storybook/preset-create-react-app": "^1.5.2",
     "@storybook/react": "^5.3.12",
-    "@types/react-bootstrap-typeahead": "^3.4.5",
-    "@types/react-tag-input": "^6.1.2",
-    "@types/react-tagsinput": "^3.19.6"
   }
 }
