@@ -7,7 +7,7 @@ import {CardGroup, Container, Row} from "react-bootstrap";
 export default function CraftspeopleView(props: { craftspeople: Craftspeople }) {
     return (
         <Container data-testid="craftspeople-view">
-            <CardGroup>
+            <CardGroup className="">
                 {props.craftspeople.map(craftsperson =>
                     <Row>
                         <CraftspersonCard craftsperson={craftsperson} />

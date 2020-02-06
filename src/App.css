@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 500% !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
