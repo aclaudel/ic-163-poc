@@ -1,14 +1,9 @@
 import React from "react";
 import {Craftsperson} from "../core/Craftsperson";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Image from "react-bootstrap/Image";
-import Col from "react-bootstrap/Col";
 import Skills from "./Skills";
-import Card, {CardBody, CardText, CardTitle} from "react-bootstrap/Card";
-import CardImg from "react-bootstrap/CardImg";
-import {SkillLevel} from "./Badge";
 import faker from "faker";
+import ProfileImage from "./ProfileImage";
+import {Card, Container} from "react-bootstrap";
 
 export default function CraftspersonCard(props: { craftsperson: Craftsperson }) {
 
@@ -20,15 +15,11 @@ export default function CraftspersonCard(props: { craftsperson: Craftsperson }) 
             margin: '30px',
             width: '18em'
         }}>
-            <Card.Img
-                variant="top"
-                className="rounded-circle"
-                src={props.craftsperson.thumbnailPhotoUrl}
-                style={{
-                    width: '50%',
-                    margin: '40px auto 0 auto'
-                }}
-            />
+            <Card.Header>
+                <div className="image-container">
+                    <ProfileImage source={props.craftsperson.thumbnailPhotoUrl}/>
+                </div>
+            </Card.Header>
             <Card.Body>
                 <Card.Title className={"text-center"}>{props.craftsperson.name.fullName}</Card.Title>
                 <Card.Text>
