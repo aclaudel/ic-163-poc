@@ -11,7 +11,7 @@ export default function CraftspeopleView(props: { filteredSkills: any[], craftsp
                     .filter(c => {
                         if(props.filteredSkills.length === 0) return true;
                         if(!c.skills) return false;
-                        return c.skills.filter(s => props.filteredSkills.includes(s)).length > 0;
+                        return props.filteredSkills.filter(s => !c.skills?.includes(s)).length === 0;
                     })
                     .map(craftsperson =>
                     <Row>
